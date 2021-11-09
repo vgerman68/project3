@@ -1,0 +1,5 @@
+[user]
+	name = German Vorotnikov
+	email = german.vorotnikov@yandex.ru
+[alias]
+	history = log --graph
